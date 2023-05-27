@@ -1,6 +1,8 @@
 ![Faris](screenshot/faris.jpg)</p>
 
-## Program Menu Bilangan ganjil, Bilangan Genap dan Bilangan Bulat</p> </br>
+## Program Menu Bilangan ganjil, Bilangan Genap dan Bilangan Bulat</p>
+
+Disini saya membuat programnya di Aplikasi Visual Studio Code (VS Code) </p></br>
 
 # 1. Source Code Program: </p></br>
 ``` dart
@@ -116,4 +118,10 @@ Program Dart di atas adalah program sederhana yang memungkinkan pengguna memilih
 
 Pada saat program dijalankan, pengguna akan diminta memasukkan nama mereka dan memilih opsi yang tersedia. Setelah memilih opsi, program akan mengeksekusi fungsi yang sesuai untuk memeriksa bilangan genap, ganjil, atau bilangan bulat sesuai dengan input yang diberikan. Program akan terus berjalan hingga pengguna memilih untuk keluar dengan memilih opsi "4".
 </p></br>
+
+# 3. Output Programnya: </p></br>
+Cara menjalankan programnya yaitu di Terminal. Di aplikasi Visual Studio Code (VS Code) diatas ada beberapa menu, Pilih menu <b>Terminal</b> setelah itu <b>New Terminal</b> masukan code berikut ini: <b>dart nama_filemu (dart main.dart)</b>. Maka outputnya akan seperti ini:</p></br>
+
+![Output](screenshot/Outputnya.png)</p></br>
+
 
